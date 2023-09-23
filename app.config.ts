@@ -2,8 +2,8 @@ export default defineAppConfig({
   // Configure Content Wind here
   cover: '/cover.jpg',
   socials: {
-    twitter: 'Atinux',
-    github: 'Atinux/content-wind'
+    twitter: 'mfazail_alam',
+    github: 'mfazail/notes',
   },
   prose: {
     h1: {
